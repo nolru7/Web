@@ -11,7 +11,7 @@ namespace Web.Modules
 
         private MySqlConnection GetConnection()
         {
-            string host = "192.168.3.252";
+            string host = "192.168.3.29";
             string user = "gudi";
             string pwd = "gudi";
             string db = "test";
