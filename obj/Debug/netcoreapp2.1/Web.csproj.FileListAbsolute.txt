@@ -1,0 +1,14 @@
+C:\Users\gd8\Desktop\github\Web\bin\Debug\netcoreapp2.1\Web.deps.json
+C:\Users\gd8\Desktop\github\Web\bin\Debug\netcoreapp2.1\Web.runtimeconfig.json
+C:\Users\gd8\Desktop\github\Web\bin\Debug\netcoreapp2.1\Web.runtimeconfig.dev.json
+C:\Users\gd8\Desktop\github\Web\bin\Debug\netcoreapp2.1\Web.dll
+C:\Users\gd8\Desktop\github\Web\bin\Debug\netcoreapp2.1\Web.pdb
+C:\Users\gd8\Desktop\github\Web\obj\Debug\netcoreapp2.1\Web.csprojAssemblyReference.cache
+C:\Users\gd8\Desktop\github\Web\obj\Debug\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+C:\Users\gd8\Desktop\github\Web\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+C:\Users\gd8\Desktop\github\Web\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+C:\Users\gd8\Desktop\github\Web\obj\Debug\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+C:\Users\gd8\Desktop\github\Web\obj\Debug\netcoreapp2.1\Web.AssemblyInfo.cs
+C:\Users\gd8\Desktop\github\Web\obj\Debug\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
+C:\Users\gd8\Desktop\github\Web\obj\Debug\netcoreapp2.1\Web.dll
+C:\Users\gd8\Desktop\github\Web\obj\Debug\netcoreapp2.1\Web.pdb
