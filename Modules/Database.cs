@@ -12,8 +12,8 @@ namespace Web.Modules
         private MySqlConnection GetConnection()
         {
             string host = "192.168.3.29";
-            string user = "gudi";
-            string pwd = "gudi";
+            string user = "root";
+            string pwd = "1234";
             string db = "test";
 
             string connStr = string.Format(@"server={0};user={1};password={2};database={3}", host, user, pwd, db);
